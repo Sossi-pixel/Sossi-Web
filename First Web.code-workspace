@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "First Web",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../../Downloads/assets"
+		}
+	],
+	"settings": {}
+}
